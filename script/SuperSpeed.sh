@@ -110,7 +110,7 @@ speed_test(){
 
 preinfo() {
 	echo "———————————————————SuperSpeed 全面测速版——————————————————"
-	echo "       bash <(curl -Lso- https://qiji.eu.org/speed)"
+	echo "       bash <(curl -Lso- https://raw.githubusercontent.com/doublog/blogcdn/master/script/SuperSpeed.sh)"
 	echo "       全部节点列表:  https://git.io/superspeedList"
 	echo "       节点更新: 2020/06/19  | 脚本更新: 2020/06/19"
 	echo "——————————————————————————————————————————————————————————"
